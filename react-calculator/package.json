@@ -2,9 +2,11 @@
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "dependencies": {
-    "expo": "^27.0.1",
-    "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz"
+    "@babel/plugin-transform-react-jsx-source": "^7.5.0",
+    "expo": "^34.0.0",
+    "expo-cli": "^3.4.1",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz"
   },
   "name": "react-calculator",
   "version": "1.0.0",
