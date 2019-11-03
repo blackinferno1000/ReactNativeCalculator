@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "react-calculator",
-    "description": "This project is really great.",
+    "description": "ios calculator made in react native",
     "slug": "react-calculator",
     "privacy": "public",
     "sdkVersion": "34.0.0",
@@ -24,6 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/blackinferno1000/ReactNativeCalculator"
   }
 }
